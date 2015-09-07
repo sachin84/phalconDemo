@@ -1,0 +1,15 @@
+{
+    "name": "Phalcon",
+    "autoload": {
+        "psr-0": { },
+        "files": [],
+        "classmap": ["app/lib"]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.5"
+    },
+    "require": {
+        "phalcon/incubator": "dev-master"
+    }
+}
+
